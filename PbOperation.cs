@@ -1,7 +1,6 @@
 public class PbOperation : IOperation
 {
     Dictionary<string, string> phoneBook = new Dictionary<string, string>();
-
    public void AddContact()
     {
         System.Console.WriteLine("Enter the name of contact you want to add:");
@@ -22,9 +21,28 @@ public class PbOperation : IOperation
         phoneBook.Add(name, number);
     }
 
+
+ 
     public void DeleteContact()
     {
+        System.Console.WriteLine("Enter the name of the contact you would like to delete.");
+        string? name = Console.ReadLine()?.Trim();
 
+        if (string.IsNullOrEmpty(name))
+        {
+            System.Console.WriteLine("Do not enter empty contact. ❗");
+            return;
+        }
+
+        if (phoneBook.Remove(name))
+        {
+            System.Console.WriteLine($"Contact with name {name} deleted. ✅ ");
+
+        }
+        else
+        {
+            System.Console.WriteLine($"No contact with name {name} was found. ❌");
+        }
     }
     public void ShowAllContacts()
     {
