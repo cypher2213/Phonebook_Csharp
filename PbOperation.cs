@@ -65,6 +65,22 @@ public class PbOperation : IOperation
     }
     public void FindContact()
     {
-        
+        System.Console.WriteLine("Enter the name of contact you would like to find (First letter must be uppercase):");
+        string? name = System.Console.ReadLine()?.Trim();
+        if (string.IsNullOrEmpty(name))
+        {
+            System.Console.WriteLine("Do not enter empty contact name. ❗");
+            return;
+        }
+        else if (!phoneBook.ContainsKey(name))
+        {
+                System.Console.WriteLine($"Contact with name {name} is not found. ❌");
+        }
+        else
+        {
+            string number = phoneBook[name];
+            System.Console.WriteLine($"Contact with name {name} and number {number} successfully found. ✅");
+        }
+     
     }
 }

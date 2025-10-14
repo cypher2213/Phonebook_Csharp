@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Phonebook_Csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d258a916628d22d28d3ad3e2c71dbb99b77b20a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Phonebook_Csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Phonebook_Csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/Users/nick/Desktop/C#/Phonebook_Csharp/bin/Debug/net8.0/Phonebook_Csharp
+/Users/nick/Desktop/C#/Phonebook_Csharp/bin/Debug/net8.0/Phonebook_Csharp.deps.json
+/Users/nick/Desktop/C#/Phonebook_Csharp/bin/Debug/net8.0/Phonebook_Csharp.runtimeconfig.json
+/Users/nick/Desktop/C#/Phonebook_Csharp/bin/Debug/net8.0/Phonebook_Csharp.dll
+/Users/nick/Desktop/C#/Phonebook_Csharp/bin/Debug/net8.0/Phonebook_Csharp.pdb
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.AssemblyInfoInputs.cache
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.AssemblyInfo.cs
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.csproj.CoreCompileInputs.cache
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.sourcelink.json
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.dll
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/refint/Phonebook_Csharp.dll
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.pdb
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/Phonebook_Csharp.genruntimeconfig.cache
+/Users/nick/Desktop/C#/Phonebook_Csharp/obj/Debug/net8.0/ref/Phonebook_Csharp.dll
