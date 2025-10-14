@@ -46,6 +46,21 @@ public class PbOperation : IOperation
     }
     public void ShowAllContacts()
     {
+        int counter = 1;
+        if (phoneBook.Count == 0)
+        {
+            System.Console.WriteLine("Your contact book is empty.");
+            return;
+        }
+        else
+        {
+            System.Console.WriteLine("\tYour contacts");
+            foreach(KeyValuePair<string,string> contact in phoneBook)
+            {
+                System.Console.WriteLine($"{counter}. {contact.Key} : {contact.Value}");
+                counter++;
+            }            
+        }
 
     }
     public void FindContact()
