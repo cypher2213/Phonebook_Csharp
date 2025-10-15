@@ -55,6 +55,7 @@ public class PbOperation : IOperation
         else
         {
             System.Console.WriteLine("\tYour contacts");
+            // Для перебору колекції Dictionary, більш надійно використовувати KeyValuePair, хоча можна і var.
             foreach(KeyValuePair<string,string> contact in phoneBook)
             {
                 System.Console.WriteLine($"{counter}. {contact.Key} : {contact.Value}");
@@ -72,9 +73,10 @@ public class PbOperation : IOperation
             System.Console.WriteLine("Do not enter empty contact name. ❗");
             return;
         }
+        //  Звичайна перевірка на те чи присутній ключ у колекції, в нашому випадку клчюем виступає ім'я
         else if (!phoneBook.ContainsKey(name))
         {
-                System.Console.WriteLine($"Contact with name {name} is not found. ❌");
+            System.Console.WriteLine($"Contact with name {name} is not found. ❌");
         }
         else
         {
