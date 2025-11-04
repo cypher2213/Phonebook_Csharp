@@ -45,7 +45,7 @@
 </div>
 
 <!-- Database -->
-<div style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&repeat=false&width=100&height=50&lines=Database" alt="Typing SVG" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgresql" /></a>
 </div>
