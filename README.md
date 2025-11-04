@@ -47,7 +47,7 @@
 <!-- Database -->
 <div style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&center=true&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&repeat=false&width=700&height=50&lines=Database" alt="Typing SVG" />
   </a>
   <br>
   <a href="https://skillicons.dev">
