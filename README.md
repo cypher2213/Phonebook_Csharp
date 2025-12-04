@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="python_plain_logo_icon_146379.svg" width="100" alt="Python" style="vertical-align: middle; margin-right: 10px;">
+  <img src="PngItem_7136382.png" width="100" alt="Python" style="vertical-align: middle; margin-right: 10px;">
 </p>
+
 <p align="center" style="margin:0;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=7AC8FF&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=30000&color=7AC8FF&background=FFFFFF00&center=true&vCenter=true&width=350&lines=Nikita+Ivashchenko" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center" style="margin-top:-20px;">
@@ -12,11 +15,13 @@
 </p>
 
 <div align="center" style="margin-bottom: 20px;">
-  <h2 style="color:#7AC8FF;">Contact me:</h2>
+  <h2 style="background: linear-gradient(90deg, #7AC8FF, #1D3F8F); -webkit-background-clip: text; color: transparent;">Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-    <img src="https://img.shields.io/badge/LinkedIn-7AC8FF?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-7AC8FF?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
   <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" /></a>
+    <img src="https://img.shields.io/badge/Telegram-A4D3FF?logo=telegram&logoColor=black&style=for-the-badge" alt="Telegram" />
+  </a>
 </div>
 
 <!-- Backend -->
@@ -63,9 +68,10 @@
   </a>
 </div>
 
+<!-- Divider with gradient -->
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(90deg,#7AC8FF,#1D3F8F)&height=3&section=header&render">
   </a>
 </div>
 
@@ -78,20 +84,21 @@
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(90deg,#7AC8FF,#1D3F8F)&height=3&section=header&render">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=DCE5F2&icon_color=7AC8FF&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats"></a>
-
+    <img src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&count_private=true&theme=codeSTACKr&custom_title=cypher2213's%20GitHub%20Stats&title_color=DCE5F2&icon_color=7AC8FF&border_color=0d1017&bg_color=0e1118&disable_animations=false" width="510" alt="cypher2213-stats" title="GitHub Stats">
+  </a>
   <a href="https://github.com/cypher2213/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=DCE5F2&icon_color=7AC8FF&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=10&count_private=true&cache_seconds=7200&hide=html,css,blade,shell&theme=codeSTACKr&custom_title=cypher2213's%20Top%20Langs%20(By%20File%20Size)&title_color=DCE5F2&icon_color=7AC8FF&border_color=0e1118&bg_color=0e1118&disable_animations=false" width="330" alt="cypher2213-top-langs">
+  </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=7AC8FF&height=3&section=header&render">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=linear-gradient(90deg,#7AC8FF,#1D3F8F)&height=3&section=header&render">
   </a>
 </div>
