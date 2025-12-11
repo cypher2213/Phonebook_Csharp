@@ -9,8 +9,14 @@
 
 <!-- Subtitle typing -->
 <p align="center" style="margin-top:-20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D83DB&background=FFFFFF00&center=true&vCenter=true&width=700&height=50&lines=I’m+a+Computer+Science+student.;Fullstack+(mainly+backend);Committed+to+writing+clean+and+maintainable+code;English%3A+B2+—+clear+technical+communication;Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D83DB&center=true&vCenter=true&width=700&height=50
+  &lines=I%27m+a+Computer+Science+student.
+  &lines=Fullstack+(mainly+backend)
+  &lines=Committed+to+writing+clean+and+maintainable+code
+  &lines=English%3A+B2+-+clear+technical+communication
+  &lines=Simplicity+is+the+ultimate+sophistication." alt="Typing SVG"/>
 </p>
+
 
 <br>
 
