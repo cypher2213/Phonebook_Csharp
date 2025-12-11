@@ -86,8 +86,12 @@
 <br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cypher2213&show_icons=true&theme=github_dark&title_color=8FF8FB&text_color=88C8F6&icon_color=4D83DB&ring_color=6BB1E4&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=github_dark&title_color=8FF8FB&text_color=88C8F6&icon_color=4D83DB"/>
+  <img height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=cypher2213&show_icons=true&theme=github_dark&bg_color=00000000&title_color=8FF8FB&text_color=88C8F6&icon_color=4D83DB" />
+
+  <img height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypher2213&layout=compact&langs_count=8&theme=github_dark&bg_color=00000000&title_color=8FF8FB&text_color=88C8F6&icon_color=4D83DB" />
 </p>
+
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cypher2213&theme=react-dark&color=8FF8FB&line=4D83DB&point=6BB1E4&hide_border=true&custom_title=Contribution%20Graph" />
