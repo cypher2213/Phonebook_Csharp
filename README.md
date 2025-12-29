@@ -1,50 +1,8 @@
-<br>
-<table style="width:100%" align="center">
-  <tr>
-    <th>Programming Languages</th>
-    <td>
-       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js" />
-       </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Backend Frameworks</th>
-    <td>
-       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,express,node />
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Frontend</th>
-    <td> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" />
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Databases</th>
-    <td>
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>Currently Learning</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-</table>
-<br>
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/user?user=KasRoudra&layout=compact&theme=monokai"/></a>
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
+<img src="https://metrics.lecoq.io/KasRoudra?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+</p>
