@@ -18,13 +18,4 @@
       </th>
     </tr>
   </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
 </table>
