@@ -8,7 +8,7 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=ayu"/>
         </a>
       </th>
       <th>
