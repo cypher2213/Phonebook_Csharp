@@ -33,11 +33,13 @@ I also took participation in Meduzzen Fullstack Internship as Python/FastAPI dev
 
 I am a Computer Science student in Sumy State University 💻🧬 (second year).
 
+My favorite code editor theme is Monokai
+
 If you ask me, what do i prefer more, backend or frontend. I might actually answer that backend development is much closer to me, because dealing with data and data flows suits my mindset better, though I can use frontend when it’s needed as a supporting part.
 
 I absolutely LOVE experiments when it comes to coding 🧪 (of course if it's logically justified)
 
-When I'm not at the keyboard, I like playing chess and learning psychology 🌱 (I really am trying to understand people's minds better to improve my soft skills).
+When I'm not at the keyboard, I like playing chess, listening to the radio and learning psychology ♟️📻🧠.
 
 </blockquote>
     
@@ -52,17 +54,13 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
 
-  <h3 style="color:#00C853;">Backend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
+ <kbd style="padding:10px;">
+    <kbd>Backend</kbd>
+    <br><br>
+    <a href="https://skillicons.dev">
+    <img width="30" src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
   </a>
-
-  <br><br>
-
-  <h3 style="color:#00BFA6;">Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
+  </kbd>
 
 </details>
 
