@@ -87,9 +87,10 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
 
 
 <!-- Snek -->   
-<p align="center">
-<a href="https://gitstar-ranking.com/Fovvy" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
-</p>
+
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=monokai)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|
+|-----|------|
+
 
 </details>
 
