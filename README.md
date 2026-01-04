@@ -1,16 +1,23 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">𓆝 𓆟 Welcome, fella. I am Nick𓆞 𓆝 𓆟</h1>
-
-<!-- Contact and keys -->
-
-<!-- Socials -->
+<h1 align="center">𓆝 𓆟 Welcome to my page! 𓆞 𓆝 𓆟</h1>
 <p align="center">
-   <kbd>
-  <a href="https://dev.to/fovvy" title="Dev.to - @fovvy"><img src="https://img.shields.io/badge/-fovvy-a75fff?style=flat&logo=Dev.to&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/parastus-n-244882279/" title="LinkedIn - P."><img src="https://img.shields.io/badge/-P.-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>  
-  <a href="https://parastus.me" title="Personal Website - parastus.me"><img src="https://img.shields.io/badge/-parastus.me-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  </kbd>
+Hi, I'm <strong>Nikita Ivashchenko (Nick)</strong> 👋<br>
+Mr. Problem-Solver & Experimenter ⚡
 </p>
+
+<!-- Contacts -->
+<h3 align="center">You can contact me here</h3>
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://github.com/f0rd0101">
+    <img src="https://img.shields.io/badge/GitHub-272822?logo=github&logoColor=E6DB74&style=for-the-badge" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
+    <img src="https://img.shields.io/badge/LinkedIn-272822?logo=linkedin&logoColor=A6E22E&style=for-the-badge" alt="LinkedIn" /></a>
+ <a href="https://t.me/nickiv_22" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-272822?logo=telegram&logoColor=A6E22E&style=for-the-badge" alt="Telegram" /></a>
+</div>
+
+
+
 
    
 <!-- Outer collapsible -->  
@@ -52,53 +59,54 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
 
 <!-- Tech Stack -->  
 <details>
-  <summary><b>🛠️ Tech Stack</b></summary>
-
+<summary><b>🛠️ Tech Stack</b></summary>
+<p style=" display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;" align="center">
  <kbd style="padding:10px;">
     <kbd>Backend</kbd>
     <br><br>
     <a href="https://skillicons.dev">
-    <img width="30px" src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
+    <img width="150px" src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
   </a>
   </kbd>
 
+ <kbd style="padding:10px;">
+    <kbd>Frontend</kbd>
+    <br><br>
+    <a href="https://skillicons.dev">
+    <img width="150px" src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+  </kbd>
+  <kbd style="padding:10px;">
+    <kbd>Database</kbd>
+    <br><br>
+    <a href="https://skillicons.dev">
+    <img width="75px"  src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  </a>
+  </kbd>
+  </kbd>
+  <kbd style="padding:10px;">
+    <kbd>Database</kbd>
+    <br><br>
+    <a href="https://skillicons.dev">
+    <img width="110px"  src="https://skillicons.dev/icons?i=git,postman,docker" />
+  </a>
+  </kbd> 
 </details>
-
-  
-
-
+</p>
 <!-- Metrics -->
 <details>
   <summary><b>📊 Metrics</b></summary>
-    <p>
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=monokai)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=monokai)|
-|-----|------|
-       
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=monokai" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=monokai" />
 </p>
+
 </details>
-
-
-
-<!-- Snek -->   
-
-
 
 
 </details>
 
-<p align="center"><a href="https:parastus.me</sub></sup></a></p>
 
-<!--
-
-<details>
-  <summary><b>PGP</b></summary>
-    <p align="center">
-
- 
-  
-  </p>
-</details>
 
 
