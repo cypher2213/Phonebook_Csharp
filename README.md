@@ -52,7 +52,7 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
-<h2 color="00C853">Backend</h2>
+<h2 style="color:#00C853;">Backend</h2>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
   </a>
