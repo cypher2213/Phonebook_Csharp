@@ -88,7 +88,7 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
 
 <!-- Snek -->   
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=monokai)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=monokai)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=monokai)|
 |-----|------|
 
 
