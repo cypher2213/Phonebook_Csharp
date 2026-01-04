@@ -34,15 +34,15 @@ Mr. Problem-Solver & Experimenter ⚡
       
 <blockquote>
 
-I'm a Backend developer based in Ukraine, i have ended GoIT FullStack Courses that gave me understanding of Node.js and React Developing principles. After that i've studied Laravel/Node.js by myself (for freelance purposes). 
+I'm a Backend developer based in Ukraine, i have completed GoIT FullStack Courses that gave me understanding of Node.js and React Developing principles. After that I've studied Laravel/Node.js by myself (for freelance purposes). 
 
-I also took participation in Meduzzen Fullstack Internship as Python/FastAPI developer. And that's the moment when i fell in love with Python 🐍💚
+I also participated in Meduzzen Fullstack Internship as Python/FastAPI developer. And that's the moment when i fell in love with Python 🐍💚
 
 I am a Computer Science student in Sumy State University 💻🧬 (second year).
 
 My favorite code editor theme is Monokai
 
-If you ask me, what do i prefer more, backend or frontend. I might actually answer that backend development is much closer to me, because dealing with data and data flows suits my mindset better, though I can use frontend when it’s needed as a supporting part.
+If you ask me whether I prefer backend or frontend, I would say that backend development is much closer to me, because dealing with data and data flows suits my mindset better, though I can use frontend when it’s needed as a supporting part.
 
 I absolutely LOVE experiments when it comes to coding 🧪 (of course if it's logically justified)
 
