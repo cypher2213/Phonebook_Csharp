@@ -53,7 +53,7 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
   <summary><b>🛠️ Tech Stack</b></summary>
     <p>
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code0&color=00C853&center=true&repeat=false&width=700&height=50&lines=Backend" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=00C853&repeat=false&duration=0&lines=Backend" />
   </a>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
