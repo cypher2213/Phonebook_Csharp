@@ -74,11 +74,8 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
   <summary><b>📊 Metrics</b></summary>
     <p>
 
-<a href="https://github.com/cypher2213/cypher2213/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/cypher2213/cypher2213/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/cypher2213/cypher2213/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=monokai)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=monokai)|
+|-----|------|
        
 
 </p>
@@ -88,8 +85,7 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
 
 <!-- Snek -->   
 
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cypher2213&theme=monokai)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cypher2213&theme=monokai)|
-|-----|------|
+
 
 
 </details>
