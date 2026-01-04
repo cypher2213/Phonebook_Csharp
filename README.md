@@ -58,7 +58,7 @@ When I'm not at the keyboard, I like playing chess, listening to the radio and l
     <kbd>Backend</kbd>
     <br><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
+    <img width="30px" src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
   </a>
   </kbd>
 
