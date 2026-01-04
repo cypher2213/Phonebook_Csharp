@@ -51,18 +51,21 @@ When I'm not at the keyboard, I like playing chess and learning psychology 🌱 
 <!-- Tech Stack -->  
 <details>
   <summary><b>🛠️ Tech Stack</b></summary>
-    <p>
-<h2 style="color:#00C853;">Backend</h2>
- <a href="https://skillicons.dev">
+
+  <h3 style="color:#00C853;">Backend</h3>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,express" />
   </a>
-  <br>
-    <a href="https://skillicons.dev">
+
+  <br><br>
+
+  <h3 style="color:#00BFA6;">Frontend</h3>
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
-  <br>
-  </p>
+
 </details>
+
   
 
 
