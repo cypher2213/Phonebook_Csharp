@@ -15,7 +15,7 @@
    
 <!-- Outer collapsible -->  
 <details>
-   <summary><b>✰ There’s more info down here</b></summary>
+   <summary><b>⚛︎ There’s more info down here</b></summary>
   
    <br>
    
